@@ -1,0 +1,22 @@
+.links {
+    background-color: gray;
+    border: solid darkred;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.field {
+    clear:both;
+    text-align:right;
+}
+
+.login-label {
+    float:left;
+    padding-right:10px;
+}
+
+.main {
+    float:left;
+}
